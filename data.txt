@@ -1,0 +1,2 @@
+admin, admin@gmail.com, admin123, Admin, User
+user, aaaa@gmail.com, aaaa, aaaa, bbbb
